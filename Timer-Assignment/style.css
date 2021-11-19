@@ -1,0 +1,23 @@
+#inputValueMin {
+  padding: 1rem 3rem 1rem 1rem;
+  border-radius: 1rem;
+  border: 1px solid #868686;
+}
+
+#inputValueSec {
+  padding: 1rem 3rem 1rem 1rem;
+  border-radius: 1rem;
+  border: 1px solid #868686;
+}
+
+.btn {
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  border: none;
+  transition: all .6s ease-in-out;
+  margin: 0 1rem;
+  cursor: pointer;
+}
+.btn:active{
+ transform: scale(.8);
+}
